@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-mg93if.lapinandwolf.co.nz/sitemap.xml
